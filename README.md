@@ -10,7 +10,7 @@ A curated list of 3D computer vision research papers and their codes
 [Deep End-to-End Time-of-Flight Imaging](http://openaccess.thecvf.com/content_cvpr_2018/papers/Su_Deep_End-to-End_Time-of-Flight_CVPR_2018_paper.pdf)
 
 ## RGDB
-[Convolutional-recursive deep learning for 3d object classification] (http://papers.nips.cc/paper/4773-convolutional-recursive-deep-learning-for-3d-object-classification.pdf)
+[Convolutional-recursive deep learning for 3d object classification](http://papers.nips.cc/paper/4773-convolutional-recursive-deep-learning-for-3d-object-classification.pdf)
 
 
 ## Surveys
