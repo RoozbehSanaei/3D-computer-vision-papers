@@ -13,7 +13,7 @@ A curated list of 3D computer vision research papers and their codes
 [Convolutional-recursive deep learning for 3d object classification](http://papers.nips.cc/paper/4773-convolutional-recursive-deep-learning-for-3d-object-classification.pdf)
 
 ## Point Clouds
-Deep Learning for 3D Point Clouds: A Survey [https://arxiv.org/pdf/1912.12033.pdf]
+[Deep Learning for 3D Point Clouds: A Survey](https://arxiv.org/pdf/1912.12033.pdf)
 
 
 ## Surveys
