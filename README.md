@@ -7,5 +7,5 @@ A curated list of 3D computer vision research papers and their codes
 
 [Deep End-to-End Time-of-Flight Imaging](http://openaccess.thecvf.com/content_cvpr_2018/papers/Su_Deep_End-to-End_Time-of-Flight_CVPR_2018_paper.pdf)
 
-## 3D Deep Learning
+## Surveys
 [A survey on Deep Learning Advances on Different 3D Data Representations](https://arxiv.org/pdf/1808.01462.pdf)
