@@ -1,4 +1,4 @@
-# Sketch recognition and retrieval papers
+# Sketch recognition and retrieval
 A curated list of papers on sketch recognition and retrieval
 
 ## Surveys
